@@ -18,8 +18,7 @@ from setuptools import setup
 
 setup(
     name='opencm-test1-repo',
-sdev1
-    version='4.',
+    version='4.3dev1',
     author='Gigaspaces',
     author_email='cosmo-admin@gigaspaces.com',
     packages=['cloudify_cli',
